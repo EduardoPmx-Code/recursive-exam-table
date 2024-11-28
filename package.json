@@ -1,0 +1,18 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsnd --respawn --clear src/app.ts"
+  },
+  "keywords": [],
+  "author": "Eduardo Pimentel",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^22.9.0",
+    "rimraf": "^6.0.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}
